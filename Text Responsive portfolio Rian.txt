@@ -55,25 +55,18 @@ Contact Me
 https://www.linkedin.com/
 
 
-========== SERVICES ==========
+========== SKILLS ==========
 .section__title-2
-Services.
+Skills.
 
-.services__title .services__description
-Web Design
-Beautiful and elegant designs with 
-interfaces that are intuitive, efficient 
-and pleasant  to use for the user.
-
-Development
-Custom web development tailored to your 
-specifications, designed to provide a 
-flawless user experience.
-
-Mobile App
-Design and transform website projects 
-into mobile apps to provide a seamless
-user experience.
+.services__title
+PHP
+JavaScript
+MySQL
+HTML
+CSS
+GitHub
+Figma
 
 
 ========== PROJECTS ==========
@@ -169,7 +162,7 @@ EmailJS team
 
 ========== FOOTER ==========
 .footer__links
-Home - About - Projects
+Home - About - Skills - Projects
 
 .footer__copy
 &#169; All Rights Reserved By 
